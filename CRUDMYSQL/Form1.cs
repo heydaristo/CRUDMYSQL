@@ -30,7 +30,7 @@ namespace CRUDMYSQL
             {
                 status = radioButton2.Text;
             }
-            SqlCommand com = new SqlCommand("exec dbo.SP_Product_Insert '"+int.Parse(textBox1.Text)+"', '"+textBox2.Text+ "','"+comboBox1.Text+"', '"+ status +"', '"+ DateTime.Parse(dateTimePicker1.Text) +"'", con);
+            SqlCommand com = new SqlCommand("exec dbo.SP_Product_Insert '"+int.Parse(textBox1.Text)+"', '"+textBox2.Text+ "','"+comboBox1.Text+"', '"+ status +"', '"+ dateTimePicker1.Value.Date.ToString("MM/dd/yyyy") +"'", con);
             com.ExecuteNonQuery();
             con.Close();
             MessageBox.Show("Successfully Saved");
