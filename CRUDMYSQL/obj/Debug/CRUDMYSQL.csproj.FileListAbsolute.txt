@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.Form1.resources
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.Properties.Resources.resources
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\bin\Debug\CRUDMYSQL.exe.config
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\bin\Debug\CRUDMYSQL.exe
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\bin\Debug\CRUDMYSQL.pdb
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.exe
+C:\Users\DELL\source\repos\CRUDMYSQL\CRUDMYSQL\obj\Debug\CRUDMYSQL.pdb
